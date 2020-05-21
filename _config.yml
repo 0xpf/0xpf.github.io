@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "0xpf"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "CEH | OSCP | Noob"
   location         : "Lagos"
   email            :
